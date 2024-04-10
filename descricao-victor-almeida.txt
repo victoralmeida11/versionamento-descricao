@@ -1,0 +1,8 @@
+nome:Victor Almeida
+idade:18 anos
+nacionalidade:brasileiro
+nascido:em Rio branco, Acre
+endereço:boa união, rua 19 de outubro, 140
+altura:1,70
+lazer:jogar futebol, academia, teréré, churrasco com a familia.
+sonhos/objetivos:virar atleta profissional, construir uma familia, viver os planos de Deus.
